@@ -6,3 +6,5 @@ IIT Kanpur
 200657
 
 Assignment-1: Different basic applications of BFS and DFS
+
+Assignment-2: Topological ordering and its applications like SCC, SAT
